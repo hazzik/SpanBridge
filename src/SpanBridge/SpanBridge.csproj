@@ -6,6 +6,7 @@
     <Version>0.0.1</Version>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <Description>A compatibility level to bring .NET Core 2.1 Span&lt;>-enabled APIs to .NET Standard 2.0 world.</Description>
   </PropertyGroup>
   <ItemGroup>
     <PackageReference Include="System.Memory" Version="4.5.0" />
